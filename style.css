@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+}
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+  }
+
+.blue {
+    background-color: rgb(106, 106, 178);
+}
+
+.title {
+    font-family: "Courier New", "Garamond", monospace;
+}
+
+.list {
+    font-style: italic;
+}
